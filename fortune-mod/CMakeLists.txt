@@ -372,7 +372,6 @@ SET (OFFENSIVE_COOKIES
     ethnic
     fortunes
     hphobia
-    knghtbrd
     limerick
     linux
     misandry
